@@ -7,6 +7,10 @@
    출처는 https://github.com/naver/dust3r.git 코드 참고함
 
 
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/3b42af3b-b436-48fa-89b7-188a72ef22c1" />
+Running on public URL 클릭하면 이미지 입력하면 됨
+
+
 
 아래 사진들 이용함 
 ![000001](https://github.com/user-attachments/assets/623050a3-e69e-414d-8910-dcd15564fba4)
